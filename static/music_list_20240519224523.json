@@ -1,0 +1,50 @@
+[
+    {
+        "id": "9527",
+        "name": "Github 歌单",
+        "cover": "images/album.png",
+        "creatorName": "EXP",
+        "creatorAvatar": "images/avatar.jpg",
+        "item": [
+            {
+                "id": "19404f8691c74d338a1b2e5a13b05215",
+                "name": "Nuzugum1",
+                "artist": "",
+                "album": "",
+                "url": "static/Nuzugum/Nuzugum1.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "19404f8691c74d338a1b2e5a13b05215",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "d34be41dbffc99bc8f171f6eb3defef8",
+                "name": "Nuzugum2",
+                "artist": "",
+                "album": "",
+                "url": "static/Nuzugum/Nuzugum2.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "d34be41dbffc99bc8f171f6eb3defef8",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "3c5fd0cef736b2bdb4660a91c06b723b",
+                "name": "Nuzugum3",
+                "artist": "",
+                "album": "",
+                "url": "static/Nuzugum/Nuzugum3.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "3c5fd0cef736b2bdb4660a91c06b723b",
+                "pic_id": "",
+                "lyric_id": ""
+            }
+        ]
+    }
+]
